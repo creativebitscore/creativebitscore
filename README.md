@@ -73,16 +73,6 @@ hu<div align="center">
 <br/>
 
 <br/>
-
-### 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=creativebitscore&theme=radical&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<br/>
-
 ### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-snake-yellow.svg" alt="Snake animation" />
