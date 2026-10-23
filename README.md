@@ -67,16 +67,8 @@
 </div>
 
 <br/>
-
-### 🐍 Contribution Snake & 3D Graph
-*(Note: These images will only appear once the GitHub Action from Step 2 finishes running successfully)*
+### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
