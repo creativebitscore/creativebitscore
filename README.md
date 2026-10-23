@@ -81,7 +81,9 @@ hu<div align="center">
 
 <br/>
 
-### 🗺️ My Contribution Graph
+<br/>
+
+### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creativebitscore&theme=github-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-snake-yellow.svg" alt="Snake animation" />
 </div>
