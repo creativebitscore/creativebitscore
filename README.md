@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/aparna-bhadoriya-580121381"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fportfolio-omega-rosy-66%2Evercel%2Eapp&urlhash=f3Gf&mt=mgMr-AvQEPLDiZVDIfi783uZTKSCvsHQNQnmQQRQPD_A-uyDJRkEzRu8i-S5BqfvK-ycgENqOEWq-c-P1ngT3963O3zk&isSdui=true.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <br/>
@@ -72,9 +72,11 @@
 
 <br/>
 
+<br/>
+
 ### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=creativebitscore&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=creativebitscore&theme=radical&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
