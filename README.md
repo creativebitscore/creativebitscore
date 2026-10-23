@@ -11,13 +11,17 @@
 <br/>
 
 ### 👨‍💻 About Me
-* 🔭 Currently working as a **Software Engineer**
-* 🌱 Currently learning **low-level systems, ML workflows, and MLOps**
-* 💬 Ask me about **ME(A/R/V)N stack, computer vision, QA/testing**
-* ⚡ Fun fact: Went from olympiad math/astronomy to building a media controller operated by hand gestures.
+* 🔭 Currently a **2nd year** **Btech Computer Science** student at **SRM University AP**.
+* 🌱 Currently learning **System Design, ML workflows and Operating Systems**
+* 🎯 Goal: Looking for **a Software Engineering Internship** where I can contribute and grow.
 
 <br/>
 
+### 🗂️ Where I Fit
+* 🚀 **Interests:** Software Engineering, Full-Stack Development, Data Analyst
+* 💼 **Target Roles:** **Software Engineer Intern, Backend Developer, Data Analyst**
+* 🌱 **Currently Learning:** **System Design, Operating System**
+  
 ### 🛠️ Tech Stack
 
 <table align="center">
