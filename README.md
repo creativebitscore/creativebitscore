@@ -21,38 +21,38 @@
 * 🚀 **Interests:** Software Engineering, Full-Stack Development, Data Analyst
 * 💼 **Target Roles:** **Software Engineer Intern, Backend Developer, Data Analyst**
 * 🌱 **Currently Learning:** **System Design, Operating System**
-  
+
 ### 🛠️ Tech Stack
 
 <table align="center">
   <tr>
     <td align="center"><b>Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>AI & Data</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend & APIs</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+      <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools & Environment</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
     </td>
   </tr>
 </table>
@@ -74,21 +74,12 @@
 
 ### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=creativebitscore&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-### ⌨️ What I'm Up To
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+models+and+Computer+Vision+pipelines.;Always+learning+low-level+systems+and+OS+development.;Open+to+Software+Engineering+Internships!" alt="Typing SVG" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=creativebitscore&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 ### 🗺️ My Contribution Map
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creativebitscore&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creativebitscore&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
