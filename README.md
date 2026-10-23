@@ -71,8 +71,18 @@
 </div>
 
 <br/>
-### 🐍 Contribution Snake
+<br/>
 
+### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=creativebitscore&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+### ⌨️ What I'm Up To
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+models+and+Computer+Vision+pipelines.;Always+learning+low-level+systems+and+OS+development.;Open+to+Software+Engineering+Internships!" alt="Typing SVG" />
+  </a>
 </div>
