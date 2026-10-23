@@ -1,4 +1,4 @@
-<div align="center">
+hu<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Hi,%20I'm%20Aparna%20Bhadoriya%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
 
@@ -81,7 +81,7 @@
 
 <br/>
 
-### 🗺️ My Contribution Map
+### 🗺️ My Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creativebitscore&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creativebitscore&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </div>
