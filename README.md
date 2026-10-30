@@ -1,4 +1,4 @@
-hu<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Hi,%20I'm%20Aparna%20Bhadoriya%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
 
