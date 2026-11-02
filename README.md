@@ -74,15 +74,18 @@
 
 | Project | Description |
 | :--- | :--- |
-| [**AgentSec-Plus-Plus**](https://github.com/creativebitscore/AgentSec-Plus-Plus) | AgentSec-An-Object-Oriented-Explainable-Security-Agent-Framework-for-Autonomous-Cyber-Defense. Built with C++. |
 | [**avenza-distributed-data-engine**](https://github.com/creativebitscore/avenza-distributed-data-engine) | A high-performance distributed in-memory data engine built with C++20, featuring TCP-based networking, concurrent request handling, persistent storage, consistent hashing, and Pub/Sub messaging. |
-| [**HackJudgeAI**](https://github.com/creativebitscore/HackJudgeAI) | An AI-driven hackathon judging and code evaluation platform. Features automated code analysis, secure execution environments, and real-time scoring. Built with TypeScript. |
-| [**rag-document-intelligence**](https://github.com/creativebitscore/rag-document-intelligence) | An AI-powered document retrieval platform built with FastAPI and React, featuring hybrid vector and keyword search, grounded question answering with source citations, document processing, and modular architecture. |
 | [**orderflow**](https://github.com/creativebitscore/orderflow) | An event-driven e-commerce microservices platform built with Java Spring Boot, RabbitMQ, PostgreSQL and Redis, featuring asynchronous checkout, atomic inventory reservation, and JWT authentication. |
+| [**rag-document-intelligence**](https://github.com/creativebitscore/rag-document-intelligence) | An AI-powered document retrieval platform built with FastAPI and React, featuring hybrid vector and keyword search, grounded question answering with source citations, and modular document processing. |
+| [**AgentSec-Plus-Plus**](https://github.com/creativebitscore/AgentSec-Plus-Plus) | An object-oriented, explainable security agent framework for autonomous cyber defense. Built with C++. |
+| [**ConcernGuard**](https://github.com/creativebitscore/ConcernGuard) | A secure digital platform for verifiable, tamper-proof consent in digital interactions. Features a Two-Factor Digital Verification System, cryptographic logging, and real-time accountability. Built with TypeScript. |
+| [**HackJudgeAI**](https://github.com/creativebitscore/HackJudgeAI) | An AI-driven hackathon judging and code evaluation platform. Features automated code analysis, secure execution environments, and real-time scoring. Built with TypeScript. |
 | [**Portfolio**](https://github.com/creativebitscore/Portfolio) | A modern, responsive personal portfolio website built to showcase my software engineering projects, technical skills, and experience. Developed with TypeScript. |
 
 <br/>
 ### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-contribution-grid-snake.svg">
+</picture>
