@@ -12,7 +12,7 @@ ko<div align="center">
 
 ### 👨‍💻 About Me
 * 🔭 Currently a **2nd year** **Btech Computer Science** student at **SRM University AP**.
-* 🌱 Currently learning **System Design, ML workflows and Operating Systems**
+* 🌱 Currently learning **System Design, ML workflows, Operating Systems and DBMS**
 * 🎯 Goal: Looking for **a Software Engineering Internship** where I can contribute and grow.
 
 <br/>
