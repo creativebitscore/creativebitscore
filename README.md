@@ -70,7 +70,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativebitscore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
-<br/>
+## 🚀 Projects
+
+| Project | Description |
+| :--- | :--- |
+| [**AgentSec-Plus-Plus**](https://github.com/creativebitscore/AgentSec-Plus-Plus) | AgentSec-An-Object-Oriented-Explainable-Security-Agent-Framework-for-Autonomous-Cyber-Defense. Built with C++. |
+| [**avenza-distributed-data-engine**](https://github.com/creativebitscore/avenza-distributed-data-engine) | A high-performance distributed in-memory data engine built with C++20, featuring TCP-based networking, concurrent request handling, persistent storage, consistent hashing, and Pub/Sub messaging. |
+| [**HackJudgeAI**](https://github.com/creativebitscore/HackJudgeAI) | An AI-driven hackathon judging and code evaluation platform. Features automated code analysis, secure execution environments, and real-time scoring. Built with TypeScript. |
+| [**rag-document-intelligence**](https://github.com/creativebitscore/rag-document-intelligence) | An AI-powered document retrieval platform built with FastAPI and React, featuring hybrid vector and keyword search, grounded question answering with source citations, document processing, and modular architecture. |
+| [**orderflow**](https://github.com/creativebitscore/orderflow) | An event-driven e-commerce microservices platform built with Java Spring Boot, RabbitMQ, PostgreSQL and Redis, featuring asynchronous checkout, atomic inventory reservation, and JWT authentication. |
+| [**Portfolio**](https://github.com/creativebitscore/Portfolio) | A modern, responsive personal portfolio website built to showcase my software engineering projects, technical skills, and experience. Developed with TypeScript. |
 
 <br/>
 ### 🐍 Contribution Snake
