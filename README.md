@@ -1,4 +1,4 @@
-<div align="center">
+ko<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Hi,%20I'm%20Aparna%20Bhadoriya%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
 
@@ -85,9 +85,6 @@
 <br/>
 
 ### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/creativebitscore/creativebitscore/output/github-snake-yellow.svg" alt="Snake animation" />
+</div>
